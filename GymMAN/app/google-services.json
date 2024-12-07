@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390336017593",
+    "project_id": "gymman-5ab5d",
+    "storage_bucket": "gymman-5ab5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390336017593:android:6ba1941b474e47a1efd768",
+        "android_client_info": {
+          "package_name": "com.example.gymman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXCkoyOsSX8cFiDQdZh28xG1zxlx2Jhn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
